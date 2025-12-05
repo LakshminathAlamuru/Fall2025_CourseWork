@@ -1,0 +1,50 @@
+MidtermExam-II
+Either use windows/Linux VM
+
+Perform safe dyamic analysis of a provided malware sample collect indicators of Compromise(IOCs), write a detection YARA rule and submit  a concise report
+
+
+Task1 : Static Triage(PE header for Windows)
+
+
+Task 2: Dynamic Analysis [Anyrun in Windows VM]
+
+Task 3: YARA rules (It is in Linux VM)
+
+
+Task 4: Analysis Report
+
+
+Anyrun,
+PEview
+YARA
+
+wireshark(local windows machine)
+Ghidra
+YARA
+
+Windows Password - 6809101326
+
+
+
+VirusTotal (static analysis)
+Dynamic (Any run)
+
+
+PEView Tools - Static Analysis tool
+(Open PEView in Windows setup and provide screenshots)
+
+Anyrun(Upload 7z file, it will analyze automatically, provide results)
+
+YARA(Yet another recrusive synchronym)
+
+7z x -pinfected Malware.yara.7z
+
+strings -n 30 Malware/sample.exe.malz | sort | uniq | wc -l
+
+yara -r myrule1.yar ~/IOT/malware.yara1.exe.malz
+
+
+
+
+
