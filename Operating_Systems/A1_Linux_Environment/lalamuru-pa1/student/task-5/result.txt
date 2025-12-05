@@ -1,0 +1,28 @@
+sample_data/os1 smart 0
+sample_data/os2 smart 0
+sample_data/os3 smart 0
+sample_data/os4 smart 0
+sample_data/random1 smart 0
+sample_data/random2 smart 0
+sample_data/random3 smart 0
+sample_data/random4 smart 0
+sample_data/random5 smart 0
+sample_data/random6 smart 0
+sample_data/random7 smart 0
+sample_data/s1 smart 1
+sample_data/s2 smart 1
+sample_data/s3 smart 1
+sample_data/os1 operating system 1
+sample_data/os2 operating system 1
+sample_data/os3 operating system 1
+sample_data/os4 operating system 1
+sample_data/random1 operating system 0
+sample_data/random2 operating system 0
+sample_data/random3 operating system 0
+sample_data/random4 operating system 0
+sample_data/random5 operating system 0
+sample_data/random6 operating system 0
+sample_data/random7 operating system 0
+sample_data/s1 operating system 0
+sample_data/s2 operating system 0
+sample_data/s3 operating system 0
